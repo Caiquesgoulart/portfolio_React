@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio_React/static/css/main.b4bd7a28.chunk.css",
+    "main.js": "/portfolio_React/static/js/main.ac301d5a.chunk.js",
+    "main.js.map": "/portfolio_React/static/js/main.ac301d5a.chunk.js.map",
+    "runtime-main.js": "/portfolio_React/static/js/runtime-main.b715be21.js",
+    "runtime-main.js.map": "/portfolio_React/static/js/runtime-main.b715be21.js.map",
+    "static/css/2.f130d907.chunk.css": "/portfolio_React/static/css/2.f130d907.chunk.css",
+    "static/js/2.6101b3c0.chunk.js": "/portfolio_React/static/js/2.6101b3c0.chunk.js",
+    "static/js/2.6101b3c0.chunk.js.map": "/portfolio_React/static/js/2.6101b3c0.chunk.js.map",
+    "index.html": "/portfolio_React/index.html",
+    "precache-manifest.ed7d798f0bf44317ac059c6152554f4b.js": "/portfolio_React/precache-manifest.ed7d798f0bf44317ac059c6152554f4b.js",
+    "service-worker.js": "/portfolio_React/service-worker.js",
+    "static/css/2.f130d907.chunk.css.map": "/portfolio_React/static/css/2.f130d907.chunk.css.map",
+    "static/css/main.b4bd7a28.chunk.css.map": "/portfolio_React/static/css/main.b4bd7a28.chunk.css.map",
+    "static/js/2.6101b3c0.chunk.js.LICENSE.txt": "/portfolio_React/static/js/2.6101b3c0.chunk.js.LICENSE.txt",
+    "static/media/bannerwec.pdf": "/portfolio_React/static/media/bannerwec.82e5657f.pdf",
+    "static/media/home.css": "/portfolio_React/static/media/bk_pr2.97584167.jpg",
+    "static/media/semantic.min.css": "/portfolio_React/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/coming2.png": "/portfolio_React/static/media/coming2.ee9ea272.png",
+    "static/media/cv_Caique.pdf": "/portfolio_React/static/media/cv_Caique.0167435c.pdf",
+    "static/media/git.png": "/portfolio_React/static/media/git.817e90f9.png",
+    "static/media/js.png": "/portfolio_React/static/media/js.4feacb0f.png",
+    "static/media/me.jpg": "/portfolio_React/static/media/me.e67c8715.jpg",
+    "static/media/nodejs.png": "/portfolio_React/static/media/nodejs.9c4ab203.png",
+    "static/media/port2.png": "/portfolio_React/static/media/port2.c65f4134.png",
+    "static/media/proj-wec.jpg": "/portfolio_React/static/media/proj-wec.4f010a23.jpg",
+    "static/media/python.jpg": "/portfolio_React/static/media/python.2364293f.jpg",
+    "static/media/react.png": "/portfolio_React/static/media/react.de965efb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b715be21.js",
+    "static/css/2.f130d907.chunk.css",
+    "static/js/2.6101b3c0.chunk.js",
+    "static/css/main.b4bd7a28.chunk.css",
+    "static/js/main.ac301d5a.chunk.js"
+  ]
+}
